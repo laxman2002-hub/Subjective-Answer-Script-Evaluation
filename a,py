@@ -1,0 +1,7 @@
+a = 1
+d = 2
+for i in range(49):
+    a+=d
+    d+=1
+    print(a)
+print(9*(10**3)-8*(9**3))
